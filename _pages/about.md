@@ -2,9 +2,10 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
-header:
-  image: /images/front_img1.png
 author_profile: true
+header:
+  overlay_image: /front_img1.png
+  caption: "Photo credit: [**RADARSAT 2**](https://mdacorporation.com/geospatial/international/satellites/RADARSAT-2/)"
 redirect_from: 
   - /about/
   - /about.html
