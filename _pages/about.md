@@ -4,7 +4,7 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 header:
-  image: "/images/front_img1.png"
+  image: "/front_img1.png"
 redirect_from: 
   - /about/
   - /about.html
