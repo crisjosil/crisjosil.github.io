@@ -11,10 +11,17 @@ redirect_from:
 
 Education
 ======
-* BSc. in Electrical Engineering, Universidad Distrital Francisco Jose De Caldas, 2012
-* MSc. in Power engineering and sustainable energy, Swansea University, 2017
 * PhD. in Satellite Remote Sensing data analytics, University of Stirling, April 2021
+* MSc. in Power engineering and sustainable energy, Swansea University, 2017
+* PGCert. in Project managment, Escuela Colombiana de Ingeniería Julio Garavito, Bogota, Colombia, 2015
+* BSc. in Electrical Engineering, Universidad Distrital Francisco Jose De Caldas, Bogota, Colombia, 2012
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Work experience
 ======
 * Spring 2019: Teaching Assistant
@@ -27,16 +34,19 @@ Work experience
   
 * 2015-2016: Solutions electrical engineer 
   * Schneider Electric, Bogota, Colombia
-  * Duties included: Worked as a link between project stakeholders facilitating synergies and optimal communication flow among project management, design teams, local and international Schneider Electric manufacturing plants to obtain integral solutions to bespoke costumer needs. 
+  * Duties included: 
+    * Worked as a link between project stakeholders facilitating synergies and optimal communication flow among project management, design teams, local and international Schneider Electric manufacturing plants to obtain integral solutions to bespoke costumer needs. 
   
 * 2012-2015: LV Design electrical engineer 
   * Schneider Electric, Bogota, Colombia
-  * Duties included: Developed bespoke designs of intelligent motor control centres, speed drives, power factor compensators, automatic load transfer systems, and auxiliary services systems for substations, among others, for projects in Colombia, Peru, Ecuador, and Venezuela.  
-Responsible for technical support to factory and the quality control department to manufacture, assembly and test of switchgear and electrical boards.
+  * Duties included: 
+    * Developed bespoke designs of intelligent motor control centres, speed drives, power factor compensators, automatic load transfer systems, and auxiliary services systems for substations, among others, for projects in Colombia, Peru, Ecuador, and Venezuela.  
+    * Responsible for technical support to factory and the quality control department to manufacture, assembly and test of switchgear and electrical boards.
 
 * 2011-2012: HV Design electrical engineer 
   * Ingeniería & Diseño S.A, Bogotá, Colombia.
-  * Duties included: Developed high voltage electrical engineering designs such as Insulation coordination, disposition of equipment in switchyards, selection of conductors, insulation coordination, shielding and grounding designs of substations (up to 500kV).
+  * Duties included: 
+    * Developed high voltage electrical engineering designs such as Insulation coordination, disposition of equipment in switchyards, selection of conductors, insulation coordination, shielding and grounding designs of substations (up to 500kV).
   
 * 2011-2012: Electrical engineering assistant 
   * Solinet LTDA., Bogotá, Colombia
@@ -53,13 +63,14 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Awards, Fellowships, and Grants
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Santander bank doctoral travel award (2019) – University of Stirling
+* Santander bank doctoral travel award (2018) – The Open university
+* UK space agency – Environment systems LTD (Fully funded PhD)
+* Swansea university International Office Scholarship and Santander bank Mobility Fund (MSc. scholarship)
+
+Oral and poster presentations 
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -71,6 +82,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Languages
 ======
-* Currently signed in to 43 different slack teams
+* Spanish – Mother tongue
+* English – Advanced
