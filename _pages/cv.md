@@ -61,7 +61,12 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Awards, Fellowships, and Grants
+Awards
+======
+* 2017: RSPSoc's wavelength conference - Best presentation award
+* 2016: Best MSc Electrical and Electronic Engineering Student - Swansea University
+
+Fellowships and Grants
 ======
 * Santander bank doctoral travel award (2019) – University of Stirling
 * Santander bank doctoral travel award (2018) – The Open university
@@ -84,3 +89,4 @@ Languages
 ======
 * Spanish – Mother tongue
 * English – Advanced
+* Italian - Intermediate
