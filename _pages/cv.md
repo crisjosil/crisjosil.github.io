@@ -18,9 +18,7 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Please see my ORCID profile for an updated list of publications [here](https://orcid.org/0000-0002-6843-5022)
   
 Work experience
 ======
