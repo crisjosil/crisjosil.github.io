@@ -78,7 +78,7 @@ Skills
 ======
 * Software:
   * Programming Languages: Python, R. 
-  * Data analysis and Machine learning frameworks: Scikit learn, GPy, GPflow, Tensorflow, Pytorch, FastAI. 
+  * Data analysis and Machine learning frameworks: Scikit-learn, GPy, GPflow, PyMC3, Tensorflow, FastAI, among others. 
   * Remote sensing and spatial data specialized software: SNAP, PolSAR pro, Google Earth Engine, QGIS, GDAL, among others.
   * Statistical analysis: SPSS
 * Electrical engineering and other software:
