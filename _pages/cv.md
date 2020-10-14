@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD. in Satellite Remote Sensing data analytics, University of Stirling, April 2021
+* PhD. in Satellite Remote Sensing for agricultural fields monitoring, University of Stirling, May 2021.
 * MSc. in Power engineering and sustainable energy, Swansea University, 2017
 * PGCert. in Project managment, Escuela Colombiana de Ingeniería Julio Garavito, Bogota, Colombia, 2015
 * BSc. in Electrical Engineering, Universidad Distrital Francisco Jose De Caldas, Bogota, Colombia, 2012
@@ -52,15 +52,6 @@ Work experience
     * Assistance to engineers developing technical plans and final reports of electrical systems and structured cabling. 
     * Responsible for finding appropriate technical and economical suppliers according to budget restrictions
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Awards
 ======
 * 2017: RSPSoc's wavelength conference - Best presentation award
@@ -79,12 +70,22 @@ Oral and poster presentations
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+  #<ul>{% for post in site.teaching %}
+   # {% include archive-single-cv.html %}
+ # {% endfor %}</ul>
   
+Skills
+======
+* Software:
+  * Programming Languages: Python, R. 
+  * Data analysis and Machine learning frameworks: Scikit learn, GPy, GPflow, Tensorflow, Pytorch, FastAI. 
+  * Remote sensing and spatial data specialized software: SNAP, PolSAR pro, Google Earth Engine, QGIS, GDAL, among others.
+  * Statistical analysis: SPSS
+* Electrical engineering and other software:
+  * MATLAB, AutoCAD 2D/3D, See electrical (electrical facilities design software), Dialux, DigSilent, EDSA power analytics.
+
 Languages
 ======
 * Spanish – Mother tongue
