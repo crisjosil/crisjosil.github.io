@@ -4,13 +4,11 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 header:
-  overlay_image: "/Seville_MT_RGB.png"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  image: "/Seville_MT_RGB.png"
+  image_description: "A description of the image"
 redirect_from: 
   - /about/
   - /about.html
-
 ---
 I'm Cristian, a PhD researcher at the university of Stirling, Scotland. I’m interested in extracting information from freely available aerial images supported by statistical and machine learning algorithms. The specific and current focus of my PhD research is on the use of multi-temporal and polarimetric Synthetic Aperture Radar (SAR) data for agricultural fields monitoring. I try to understand crop and SAR signal interaction, extract fields insights and to develop near-real time crop monitoring and early warning systems. This information is a key input to contribute to food security and the promotion of efficient and sustainable agriculture. I’ve worked with farmers, crop types and test sites in multiple countries including Peru, Colombia Spain, and Canada. 
 
